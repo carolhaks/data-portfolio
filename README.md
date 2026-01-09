@@ -1,2 +1,2 @@
 # data-portfolio
-Data projects for Data Insights and Foresight Apprentice application
+Data projects job application
